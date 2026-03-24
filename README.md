@@ -17,8 +17,8 @@ Rich OS fingerprinting — distro, variant, desktop environment, init system, up
 
 Interactive terminal UI — keyboard navigation, colour-coded status, per-category detail views
 
-To get started, chmod +x jack-advanced-spec-sheet-[version]-installer.sh && sudo ./jack-advanced-spec-sheet-[version]-installer.sh
+To get started, "chmod +x jack-advanced-spec-sheet-[version]-installer.sh && sudo ./jack-advanced-spec-sheet-[version]-installer.sh"
 
-You can check dependencies prior to installation by running "sudo ./jack-advanced-spec-sheet-[version]-installer.sh -c
+You can check dependencies prior to installation by running "sudo ./jack-advanced-spec-sheet-[version]-installer.sh -c"
 
 Run "sudo jackass".  Tool may take a few moments to load as it's gathering information.
